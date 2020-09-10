@@ -1,0 +1,15 @@
+git init
+
+git clone URL
+
+git add "nombre de archivo"
+
+git commit -m "cometario"
+
+git branch -M "nombre de rama"
+
+git remote add "algun nombre" URL
+
+git push -u "algun nombre" "nombre de rama"
+ 
+
